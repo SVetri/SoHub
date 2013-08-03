@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SoHub</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fb">Facebook</string>
+    <string name="ctc">Contacts</string>
+    <string name="nodata">No Contacts To Display</string>
+    <string name="title_activity_contact_description">ContactDescription</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_fbdescription">FBDescription</string>
+    <string name="testfbname">Friends Name Here!</string>
+    <string name="photosbutton">View Facebook Photos</string>
+    <string name="bio">Whoops! It Looks Like Your Friend Does Not Have A Facebook Bio!</string>
+    <string name="app_id">557621817616703</string>
+    <string name="title_activity_fbfriends">FBFriends</string>
+    <string name="bir">Birthday :</string>
+    <string name="title_activity_prof_pic_viewer">ProfPicViewer</string>
+    <string name="title_activity_display_friends_pics">DisplayFriendsPics</string>
+    <string name="downloadpicbutton">Download This Picture!</string>
+    <string name="ctcname">Contact Name Here!</string>
+    <string name="phnumber">Phone Number:</string>
+    <string name="emailtxt">Email :</string>
+    <string name="note">Looks Like You Don\'t Have Any Notes About This Contact!</string>
+
+</resources>
